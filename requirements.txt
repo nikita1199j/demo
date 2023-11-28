@@ -1,3 +1,5 @@
 All features/types 
 payment option
 colors
+dark mode
+video call
